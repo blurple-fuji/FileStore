@@ -19,8 +19,8 @@ API_ID = "31761013"
 API_HASH = "3d55d62014467b2a922c6c0d6d95deae"
 WORKERS = 5
 
-DB_URI = "mongodb+srv://suiiiiiiiiiiiiiiiui_db_user:VVN0myaHuVlmGLsf@cluster0.nx0dts2.mongodb.net/?appName=Cluster0" # MongoDB URI
-DB_NAME = "HypoFlix"
+DB_URI = "mongodb+srv://dubbingroup29_db_user:itsyashjha@immortaldata.ojaeaxj.mongodb.net/?retryWrites=true&w=majority" # MongoDB URI
+DB_NAME = "Yae_Probot"
 
 FSUBS = [[-1003819872917, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
@@ -33,7 +33,7 @@ DB_CHANNEL =    # just put channel id dont add ""
 # Auto Delete Timer (seconds)
 AUTO_DEL = 300
 # Admin IDs
-ADMINS = [6497757690, 6103092779]
+ADMINS = [7537243058, 8390385946]
 # Bot Settings
 DISABLE_BTN = True
 PROTECT = False 
